@@ -1,2 +1,3 @@
 # projeto-game
- Projeto de game feito com JavaScript e Sprites gratuitos do Itch.io
+Fiz com o único intuito, no ínicio do aprendizado de pegar o jeito em lógica de programação com java script.
+ Deu errado e não prendi nada, além de que o jogo é uma bosta.
